@@ -1,0 +1,15 @@
+Open Terminal and Type commands:
+
+g++ -c main.cpp
+g++ -c print.cpp
+g++ -c factorial.cpp
+g++ -c multiply.cpp
+
+These all command will create .o file 
+
+g++ -o _main main.o print.o factorial.o multiply.o
+
+This command will create executable file with named as _main
+
+./main
+
